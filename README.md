@@ -14,7 +14,7 @@
 | 方式 | 步骤 |
 | --- | --- |
 | 电脑 | 下载仓库 → 双击 `index.html`（Chrome / Edge / Safari） |
-| 在线 | 打开 GitHub Pages：`https://dsjsunu.github.io/our-little-house/` |
+| 在线 | 打开 GitHub Pages：`https://dsjsunu-labs.github.io/our-little-house/` |
 | 手机 | `python -m http.server 8000` 或 `npx serve`，手机连同一 Wi-Fi 访问电脑局域网 IP |
 
 第一次打开会让你设置一个暗号、写两个人的名字、选两只小动物。完成后就可以开始记录。
